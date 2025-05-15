@@ -7,5 +7,5 @@ This repository contains a large-scale global land cover validation dataset that
 
 To visualize the distribution of the validation points, please refer to the included image. The map illustrates the global spread of the validation points, providing insights into the density and geographical variation of the dataset.
 
-<img src="figs/problem.png" width="500" div align=center/>
+<img src="distribution_map.png" width="500" div align=center/>
 
